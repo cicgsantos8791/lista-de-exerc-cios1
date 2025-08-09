@@ -1,0 +1,5 @@
+palavra1= input("Orgãos responsáveis pela visão:")
+palavra2= input("Qual o plural de verde?")
+palavra3= input("Qual o plural de é?:")
+palavra4= input("O contrário de feios?")
+print(palavra1,palavra2,palavra3,palavra4)
